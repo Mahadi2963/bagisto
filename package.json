@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "axios": "^1.6.4",
+    "cypress": "^13.9.0",
+    "laravel-vite-plugin": "^0.7.2",
+    "vite": "^4.0.0"
+  },
+  "name": "bagisto",
+  "description": "<p align=\"center\">     <a href=\"http://www.bagisto.com\"><img src=\"https://bagisto.com/wp-content/themes/bagisto/images/logo.png\" alt=\"Total Downloads\"></a> </p>",
+  "version": "1.0.0",
+  "main": "vite.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "author": "Mahadi Hasan",
+  "license": "ISC"
+}
